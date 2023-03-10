@@ -1,0 +1,5 @@
+﻿  win32_platform.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+g:\��� ����\�����\����������� ����������������\ping pong game\win32_platform.cpp : fatal error C1083: Не удается открыть файл промежуточный код компилятора: x64\Release\Ping Pong Game.ipdb: Permission denied,
+LINK : fatal error LNK1257: не удалось создать код
